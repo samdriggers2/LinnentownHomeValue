@@ -1,0 +1,59 @@
+﻿fid,parcel_num,parcel_sec,parcel_id,residents,bldg_count,date_acq1,date_move1,parc_date1,Address,parcel_owner,resident_names,tenant_name,sq_ft,ULT_PRICE,parcel_id,cond_overall,rooms,race,linnentown,condemned
+53,3,2,3_2,Mr. Robert Gambrell,1,7/23/64,11/11/64,,219 Waddell Street,,,,6883.605449,11500,3_2,Standard,7,White,0,1
+102,8,2,8_2,Mrs. L.L. Johnson,1,12/24/64,3/26/65,4/1/65,160 Florida Ave,,,,15416.34371,11500,8_2,Standard,5,White,0,1
+81,10,9,10_9,Stella S. Jones,1,2/25/65,4/19/65,9/29/65,198 Lyndon Row,,,Charles Shaw,20397.44832,12000,10_9,Substandard,NA,Nonwhite,1,1
+7,6,9,6_9,"Claude King, Josephine D. Wilson",2,,,,194 Lyndon Row,,,Mary Sherrer,19263.50107,12250,6_9,Substandard,6,Nonwhite,1,1
+72,1,5,1_5,Mr. Harold G. Westcott,1,5/25/64,,6/23/64,177 Florida Ave,,,,6953.904107,13000,1_5,NA,NA,White,0,0
+96,5,4,5_4,Burke Betts,1,4/17/64,7/7/64,,311 Hall Street,,,,9385.537914,13000,5_4,Substandard,5,White,0,1
+109,23,11,23_10,Sidney L. Moore,1,2/10/64,,4/7/64,255 Hall Street,,,,54452.92848,13000,23_10,NA,8,NA,0,1
+107,24,11,24_10,Jeannette W. Conley,1,4/2/64,,4/13/64,747 South Church Street,,,,33848.9478,14000,24_10,NA,NA,NA,0,1
+44,2,5,2_5,Lester C. WalkerJr. and Alma T. Walker,1,5/26/64,5/27/64,6/12/64,342 Florida Ave,,,,5392.909082,14500,2_5,Standard,NA,White,0,0
+10,5,9,5_9,Mr. Ben Taylor,1,7/23/64,6/6/64,8/24/64,196 Lyndon Row,,,,7161.847086,1625,5_9,NA,NA,Nonwhite,1,1
+36,2,3,2_3,Mrs. C. B. Benton,2,12/24/64,4/30/65,5/10/65,149 Waddell Street,,,,15632.97576,16500,2_3,Standard,8,White,0,1
+33,17,11,17_10,"Claude McDonald, Stella S. Jones",3,2/13/64,2/21/64,3/13/64,383 Cloverhurst Ave,,,,9188.011536,18800,17_10,NA,NA,NA,0,1
+61,12,9,12_9,John Henry Griffin,1,12/7/64,1/29/65,3/8/65,143 Peabody Street,,,,5860.962533,2010,12_9,Substandard,2,Nonwhite,1,0
+100,3,5,3_5,Howard W. Thomas,1,5/26/64,7/15/64,7/28/64,264 Florida Ave,,,,37102.08523,21500,3_5,Standard,4,White,0,0
+77,1,4,1_4,William H. Moseman,1,2/25/65,4/8/65,4/5/65,199 Wray Street,,,,7815.742991,22000,1_4,Standard,10,White,0,1
+86,6,10,6_10,Ed Bazzelle,1,4/8/64,,4/21/64,195 Lyndon Row,,,,8453.109984,2300,6_10,Substandard,0,NA,1,0
+25,24,9,24_9,O. J. Tolnas,1,3/6/64,,4/30/64,590 Findley Street,,,Jim Thomas,2860.559948,2500,24_9,Substandard,3,NA,1,1
+65,21,9,21_9,Mrs. Caroline Brand Mell,1,9/28/63,10/7/63,10/21/63,548 Findley Street,,,"Cleveland Payne, Allice Morton",9812.11657,2500,21_9,NA,NA,NA,1,0
+70,15,10,15_10,Fred Brown,1,5/14/64,,10/19/65,141 Lyndon Row,,,,11787.5888,2600,15_10,Substandard,1,Nonwhite,1,1
+91,11,10,11_10,Annie B. Thomas,1,5/14/64,4/28/64,,181 Lyndon Row,,,,7558.830882,2600,11_10,NA,NA,NA,1,1
+94,7,4,7_4,"Mrs. L.D. Green, Mrs. L.P. Green",3,7/8/63,,,370 South Lumpkin Street,,,,30641.08886,27300,7_4,NA,NA,NA,0,0
+84,3,10,3_10,Matilda Lyons,1,6/24/64,,4/29/66,630 South Church Street,Matilda Lyons,Matilda Lyons,,12985.7832,2750,3_10,Substandard,2,Nonwhite,1,1
+1,1,6,1_6,Fred E. Falk,1,11/6/63,3/1/64,,220 Peabody Street,,,,37931.91445,27800,1_6,NA,2,White,1,0
+48,5,5,5_5,Belle Louise Hampton,1,6/26/64,9/1/64,8/24/64,490 South Lumpkin Street,,,,19820.33748,28500,5_5,Substandard,10,White,0,1
+64,22,9,22_9,Luther and Conne Lanier,1,,,5/12/66,128 Lyndon Row,Luther Lanier,Luther and Connie Lanier,,2827.884535,2900,22_9,Substandard,4,NA,1,1
+66,22,10,22_10,Davis Johnson,1,2/13/64,8/18/64,8/24/64,123 Lyndon Row,,,,8519.796558,2950,22_10,Substandard,5,Nonwhite,1,1
+76,2,4,2_4,,,,,,,,,,13040.01882,3000,2_4,NA,3,NA,0,0
+51,1,1,1_1,Miss Mildred L Dearing,1,12/4/63,12/19/63,7/13/64,298 South Lumpkin Street,,,,10451.77884,31050,1_1,Standard,13,White,0,NA
+23,18,9,18_9,Ed Willie Hunter,1,3/6/64,3/19/65,,540/424 Findley Street,Lillie Bell Hunter,Lillie Bell Hunter,,9382.151636,3500,18_9,Substandard,4,Nonwhite,1,1
+88,2,10,2_10,Mary Alice Johnson,1,6/24/64,7/10/64,,624 South Church Street,Mary Alice Johnson,Mary Alice Johnson,,9372.554995,3500,2_10,Standard,5,Nonwhite,1,1
+42,9,3,9_3,Mrs. A. G. Hargrove,3,4/2/64,6/5/64,6/8/64,428 South Lumpkin Street,,,,46041.84584,39500,9_3,Standard,17,White,0,1
+26,23,9,23_9,"Clara Ashley Wright, Mary Lizzie Ashley, and Carrie Bell Stewart",1,3/6/64,8/10/64,5/12/66,122 Lyndon Row,,,,2574.335247,4500,23_9,Standard,5,Nonwhite,1,1
+105,6,2,6_2,R.T. Goodwyn and L.O. Price,1,9/10/64,,,140 Florida Ave,,,,7728.391874,4500,6_2,Substandard,4,White,0,1
+3,10,10,10_10,Fred Brown,1,5/14/64,6/2/64,6/9/64,183 Lyndon Row,,,,8327.609911,4750,10_10,Substandard,7,Nonwhite,1,1
+62,13,9,13_9,Abe Thomas,1,,,5/12/66,141 Peabody Street,,,,6979.268988,4750,13_9,Substandard,7,NA,1,1
+111,13,10,13_10,Ida Bloodsaw,1,9/10/64,4/13/65,4/19/65,161 Lyndon Row,Octavia Portlock,Octavia Portlock,,10419.32753,5000,13_10,Substandard,5,Nonwhite,1,1
+14,3,7,3_7,Robin D. Wilson,1,7/10/63,,8/1/63,160 Peabody Street,,,,28868.90529,5600,3_7,Substandard,4,Nonwhite,1,0
+21,16,9,16_9,Emma Davis,1,2/25/65,4/30/65,5/5/65,142 Lyndon Row,Emma Davis,Emma Davis,,8495.351499,5800,16_9,Substandard,4,Nonwhite,1,1
+39,6,3,6_3,,,,,,,,,,12108.01307,6000,6_3,NA,NA,NA,0,1
+55,5,2,5_2,A.G. Bray,1,7/23/64,8/19/64,9/8/64,130 Florida Ave,,,,9953.916776,6250,5_2,Substandard,4,White,0,1
+69,14,10,14_10,Loise Johnson Kendrick,1,9/10/64,2/28/65,12/1/64,147 Lyndon Row,,,,12003.56361,6250,14_10,Standard,5,Nonwhite,1,1
+110,9,10,9_10,John Henry Dillard,1,2/25/65,8/2/65,8/30/65,187 Lyndon Row,,,,9428.530198,6250,9_10,Standard,5,Nonwhite,1,1
+24,19,9,19_9,Annie Cofer Hunter,1,3/6/64,8/18/64,8/24/64,548 Findley Street,Robert Hunter,"Robert and Lois Hunter, Nellie and Marion James Cherry",,8732.629279,6500,19_9,Substandard,4,Nonwhite,1,1
+89,1,10,1_10,Otis Favors,1,6/26/64,11/30/64,11/1/64,620 South Church Street,Otis Favors,Otis Favors,,11009.88233,6500,1_10,Standard,5,Nonwhite,1,1
+106,8,10,8_10,Josie Adkison,1,2/25/65,3/19/65,4/9/65,189 Lyndon Row,,,,10185.28312,6580,8_10,Substandard,5,NA,1,1
+28,3,11,3_11,H. H. Seagraves,1,4/21/64,,5/26/64,273 Cloverhurst Ave,,,,15558.4982,6750,3_11,Substandard,5,NA,0,1
+108,25,11,25_10,C.E. McGraw,1,2/13/64,,6/10/64,749 South Church Street,,,,4245.474428,7250,25_10,NA,NA,NA,0,1
+11,1,9,1_9,Nancy Williams,1,6/26/64,1/1/65,11/1/64,185 Peabody Street,,,,6437.401791,7300,1_9,Substandard,4,NA,1,1
+71,16,10,16_10,Gertrude Watson Clark,1,2/13/64,7/30/64,,131 Lyndon Row,,,,10615.8189,7500,16_10,Standard,6,Nonwhite,1,1
+22,14,9,14_9,Joseph Smith,1,2/25/65,7/23/65,9/29/65,170 Lyndon Row,Joseph Smith,Joseph and Marie Smith,,6382.596358,7550,14_9,Standard,6,Nonwhite,1,1
+99,7,10,7_10,Thomas Davis,1,2/25/65,5/18/65,,193 Lyndon Row,,,,10590.78464,7800,7_10,Substandard,6,Nonwhite,1,1
+32,1,11,1_11,C. P. Conway,1,4/17/64,7/8/68,7/27/64,270 Hall Street,,,,16005.22048,8000,1_11,NA,0,NA,0,1
+104,10,2,10_2,Mrs. Hattie W. Whitmire,1,12/17/63,9/17/63,1/21/64,180 Florida Ave,,,,30890.29208,8000,10_2,NA,4,NA,0,0
+20,11,7,11_7,,,,,,,Lillie Bell Hunter,vacant,vacant,11823.78724,8250,11_7,Substandard,4,Nonwhite,1,1
+103,9,2,9_2,Mrs. Blanche Smith Winn,1,12/24/64,,3/17/65,170 Florida Ave,,,,10016.19448,8500,9_2,Substandard,5,White,0,1
+4,9,9,9_9,Mr. Harold Taylor,1,2/25/65,4/19/65,3/16/65,184 Lyndon Row,Harold Taylor,Harold Taylor,,7645.859806,8590,9_9,NA,NA,Nonwhite,1,1
+67,18,11,18_10,John Williams,1,6/24/64,8/26/64,8/23/64,345 Cloverhurst Ave,,,,12915.84177,8800,18_10,Standard,4,White,0,1
+6,7,9,7_9,Joe Daniel and Octavia Daniel Portlock,1,2/25/65,5/25/65,5/12/65,161 Peabody Street,,,,11397.8847,9850,7_9,NA,NA,Nonwhite,1,1
