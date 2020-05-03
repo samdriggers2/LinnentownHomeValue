@@ -1,2 +1,2 @@
 # LinnentownHomeValue
-This repository houses replication files for a Tableau dashboard titled "Racial Disparities in Athens' Urban Renewal Project GA R-50"
+This repository houses replication files for a Tableau dashboard titled "Racial Disparities in Athens' Urban Renewal Project GA R-50." It contains only two files. First, it includes cleaned data from the University of Georgia's Community Mapping Lab on Urban Renewal Project GA R-50. This CSV file is titled "Linnentown_Project_HomeValues_Data.csv." Second, it includes R code used to analyze this data. This R script file is titled "Linnentown_Project_HomeValues_Code." For further information on the Linnentown Project, please see the UGA Community Mapping Lab (link: https://research.franklin.uga.edu/cmlab/). 
